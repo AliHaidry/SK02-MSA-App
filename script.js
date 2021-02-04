@@ -9,7 +9,7 @@ populateUI();
 let ticketPrice = +movieSelect.value;
 
 
-// functions
+// functions to implement
 
 
 // save selected movie index and price
